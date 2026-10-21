@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+sales.db
+data/sales_data.csv
